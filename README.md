@@ -10,27 +10,11 @@ Mengetahui kesehatan di Jawa Barat.
 
 ## Analysis
 
-Jumlah Penduduk:
+Analisisnya mencakup berbagai aspek kesehatan, antara lain:
 
-* Kabupaten Bogor memiliki jumlah penduduk terbanyak, sekitar 3.517.032 jiwa.
-* Kota Banjar memiliki jumlah penduduk terendah, sekitar 128.985 jiwa.
-
-Jumlah Fasilitas Kesehatan (Faskes):
-
-* Kabupaten Bogor memiliki jumlah faskes terbanyak, sekitar 5.128 unit.
-* Kota Banjar memiliki jumlah faskes terendah, sekitar 239 unit.
-
-Jaminan Kesehatan:
-
-* Jaminan kesehatan dengan jumlah peserta terbanyak adalah PBI APBN, mencapai sekitar 15.363.537 jiwa.
-
-Jenis Faskes:
-
-* Jenis faskes yang paling banyak adalah Posyandu, dengan total sekitar 52.744 unit.
-
-Korelasi antara Jumlah Penduduk dan Jumlah Faskes:
-
-* Terdapat korelasi positif antara jumlah penduduk dan jumlah faskes di setiap Kabupaten/Kota.
+* Penduduk.
+* Fasilitas Kesehatan (Faskes).
+* Jaminan Kesehatan.
 
 ## Dashboard
 
@@ -38,8 +22,7 @@ https://public.tableau.com/views/HEALTHDASHBOARD_16976072345590/DASHBOARDKESEHAT
 
 ## Conclusion
 
-* Kabupaten Bogor, dengan populasi yang besar dan jumlah fasilitas kesehatan terbanyak, menawarkan peluang bagi investasi dalam sektor kesehatan, seperti pembangunan rumah sakit atau klinik. Sementara itu, Kota Banjar, yang memiliki populasi yang lebih kecil, mungkin memerlukan peningkatan aksesibilitas terhadap fasilitas kesehatan yang lebih efisien.
-* Jaminan kesehatan PBI APBN yang paling banyak diakses dapat menjadi peluang bagi perusahaan asuransi kesehatan untuk memperluas cakupan dan layanan mereka di Jawa Barat. Dan dengan adanya korelasi positif antara jumlah penduduk dan jumlah fasilitas kesehatan, ada peluang bagi perusahaan terkait layanan kesehatan, seperti perusahaan farmasi atau perusahaan yang menyediakan peralatan medis.
+Di Analisis Kesehatan di Jawa Barat.pptx, Anda akan menemukan kesimpulan yang diambil dari analisis.
 
 ## File Description
 
@@ -49,8 +32,8 @@ File pptx ini berisi hasil analisis kesehatan di Jawa Barat.
 
 ### Jaminan Kesehatan Jabar - data.csv:
 
-File csv ini berisi tabel untuk analisis.
+File csv ini berisi data Jaminan Kesehatan untuk analisis.
 
 ### Jumlah Faskes Jabar - data.csv:
 
-File csv ini berisi tabel untuk analisis.
+File csv ini berisi data Jumlah Faskes untuk analisis.
