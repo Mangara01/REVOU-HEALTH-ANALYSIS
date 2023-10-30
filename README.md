@@ -1,20 +1,12 @@
-# Health Analysis in West Java
-
-## Background
+# Health in West Java Analysis
 
 Dalam upaya mewujudkan kondisi kesehatan yang optimal di Jawa Barat, penting untuk memahami infrastruktur kesehatan yang telah ada, termasuk fasilitas kesehatan yang tersedia dan pelayanan kesehatan yang diberikan kepada masyarakat. Dengan fokus pada aspek ini, analisis kesehatan di Jawa Barat akan mengulas secara komprehensif bagaimana sistem kesehatan di wilayah ini.
 
-## Objective
+## Key Feature
 
-Mengetahui kesehatan di Jawa Barat.
-
-## Analysis
-
-Analisisnya mencakup berbagai aspek kesehatan, antara lain:
-
-* Penduduk.
-* Fasilitas Kesehatan (Faskes).
-* Jaminan Kesehatan.
+* Analisis Penduduk.
+* Analisis Fasilitas Kesehatan (Faskes).
+* Analisis Jaminan Kesehatan.
 
 ## Dashboard
 
@@ -26,14 +18,6 @@ Di Analisis Kesehatan di Jawa Barat.pptx, Anda akan menemukan kesimpulan yang di
 
 ## File Description
 
-### Analisis Kesehatan di Jawa Barat.pptx:
-
-File pptx ini berisi hasil analisis kesehatan di Jawa Barat.
-
-### Jaminan Kesehatan Jabar - data.csv:
-
-File csv ini berisi data Jaminan Kesehatan untuk analisis.
-
-### Jumlah Faskes Jabar - data.csv:
-
-File csv ini berisi data Jumlah Faskes untuk analisis.
+* **Analisis Kesehatan di Jawa Barat.pptx:** File pptx ini berisi hasil analisis kesehatan di Jawa Barat.
+* **Jaminan Kesehatan Jabar - data.csv:** File csv ini berisi data Jaminan Kesehatan untuk analisis.
+* **Jumlah Faskes Jabar - data.csv:** File csv ini berisi data Jumlah Faskes untuk analisis.
